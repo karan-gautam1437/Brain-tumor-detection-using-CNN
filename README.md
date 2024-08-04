@@ -1,5 +1,3 @@
-## Udacity AWS Machine Learning Engineer Nanodegree Capstone Project
-
 # Brain Tumor Detection Using CNN
 
 ## Project Overview
