@@ -17,7 +17,7 @@ The dataset that will be used in this project is [Brain MRI Images for Brain Tum
 4. **shutil** - used for copying files
 
 ## Project Set Up and Installation
-This project can be performed in any of the three softwares: **AWS Sagemaker Studio, Jupyter Lab/ Notebooks, or Google Colab**. Open the "capstone_project.ipynb" file and start by installing all the dependencies. For ease of use you may want to use a Kernel with GPU so that the training process is quick and time saving. 
+This project can be performed in any of the three softwares: **AWS Sagemaker Studio, Jupyter Lab/ Notebooks, or Google Colab**. Open the "test.ipynb" file and start by installing all the dependencies. For ease of use you may want to use a Kernel with GPU so that the training process is quick and time saving. 
 
 ## Prediction Results
 <img src="https://raw.githubusercontent.com/kanchitank/AWS-MLE-Nanodegree-Capstone/main/outputs/predictions.jpeg">
